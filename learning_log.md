@@ -11,5 +11,5 @@ Created baseline visualizations (class count plots, amount distributions) and de
 ## Day 3  
 Implemented a baseline fraud detection model (e.g., Logistic Regression/Random Forest) with class weighting, evaluated using precision, recall, F1-score, ROC-AUC, and confusion matrix with focus on fraud-class recall.
 ​
-Explored decision threshold tuning and precision–recall trade-offs, and noted next steps like trying resampling methods (SMOTE/undersampling) and more advanced models (e.g., XGBoost) with cross-validation.
+Explored decision threshold tuning and precision–recall trade-offs, and noted next steps like trying resampling methods and more advanced models (e.g., XGBoost) with cross-validation.
 ​
