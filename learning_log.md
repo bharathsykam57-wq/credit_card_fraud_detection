@@ -21,5 +21,5 @@ Implemented resampling strategies to address class imbalance: tried RandomUnderS
 Trained improved models (Logistic Regression with class weights and Random Forest) on resampled data, tuned key hyperparameters (e.g., C for Logistic Regression, n_estimators and max_depth for Random Forest), and evaluated using stratified cross-validation with ROC-AUC and PR-AUC as primary metrics.
 ​
 
-Analyzed precision–recall curves and confusion matrices on the validation set to pick a better decision threshold for fraud detection, aiming to increase recall while keeping an acceptable false positive rate; documented the best-performing configuration and updated the to-do list for testing XGBoost and calibration methods next.
+Analyzed precision–recall curves and confusion matrices on the validation set to pick a better decision threshold for fraud detection, aiming to increase recall while keeping an acceptable false positive rate; documented the best-performing configuration and updated the to-do list for testing XGBoost.
 ​
