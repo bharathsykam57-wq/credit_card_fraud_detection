@@ -13,7 +13,7 @@ Implemented a baseline fraud detection model (e.g., Logistic Regression/Random F
 ​
 Explored decision threshold tuning and precision–recall trade-offs, and noted next steps like trying resampling methods and more advanced models (e.g., XGBoost) with cross-validation.
 
-Day 4: Handling Imbalance & Improved Models
+## Day 4: Handling Imbalance & Improved Models
 
 Implemented resampling strategies to address class imbalance: tried RandomUnderSampler, SMOTE, and a combined over- and under-sampling pipeline, then compared their impact on fraud-class recall and precision.
 ​
